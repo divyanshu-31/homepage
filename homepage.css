@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+.upper-background{
+    margin: 0px;
+    padding: 0px;
+    height: 2664px;
+    background-image: url(image-1238x2664.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -110px;}
+    
+
+ .cards1{
+        background-image: url(https://th.bing.com/th/id/OIP.EceGqQDcJsdpEAG0nUWTogHaNK?w=187&h=333&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+        background-size: cover;
+        
+ }
+
+ .last-end-div-of-home-page{
+    width: 100%;
+    height: 600px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+ }
+
+ 
+ .end-div-of-home-page{
+    width: 100%;
+    height: 600px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+ }
+ 
+
+  
